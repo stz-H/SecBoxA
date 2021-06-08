@@ -8,7 +8,7 @@
 
 > 可能是总结的最全的开源渗透工具！
 
-**欢迎大家在[issue](https://github.com/stz-H/SecBoxA/issues/1)多多推荐好用的工具，交流学习安全相关技巧.**
+**欢迎大家在[issue](https://github.com/stz-H/SecBoxA/issues)多多推荐好用的工具，交流学习安全相关技巧.**
 
 ## 目录
 
