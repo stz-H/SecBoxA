@@ -3,12 +3,12 @@
 [![GitHub issues](https://img.shields.io/github/issues/ds19991999/SecBox.svg)](https://github.com/ds19991999/SecBox/issues)
 [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/ds19991999/SecBox/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
-[![GitHub stars](https://img.shields.io/github/stars/ds19991999/SecBox.svg?style=popout&label=Stars)](https://github.com/ds19991999/SecBox/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ds19991999/SecBox.svg?style=popout&label=Fork)](https://github.com/ds19991999/SecBox/fork)
+[![GitHub stars](https://img.shields.io/github/stars/ds19991999/SecBox.svg?style=popout&label=Stars)](https://github.com/stz-H/SecBoxA/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ds19991999/SecBox.svg?style=popout&label=Fork)](https://github.com/stz-H/SecBoxA/fork)
 
 > 可能是总结的最全的开源渗透工具！
 
-**欢迎大家在[issue](https://github.com/ds19991999/SecBox/issues/1)多多推荐好用的工具，交流学习安全相关技巧.**
+**欢迎大家在[issue](https://github.com/stz-H/SecBoxA/issues/1)多多推荐好用的工具，交流学习安全相关技巧.**
 
 ## 目录
 
